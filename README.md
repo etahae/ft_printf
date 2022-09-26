@@ -1,2 +1,2 @@
 # printf
-recoding some basic use of the printf function
+recoding the printf function from the standard C library
